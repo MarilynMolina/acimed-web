@@ -52,7 +52,7 @@ body{
   <div class="abs-center">
     <form action="#" class="border p-3 form">
 <div class="login">
-      <label>LOGIN</label>
+      <label>INICIAR SESION</label>
 </div>
      <br>
      <br>
