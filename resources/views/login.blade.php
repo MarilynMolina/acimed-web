@@ -33,15 +33,15 @@ body{
 
 .login{
   text-align: center;
-}       
-               
+}
+
  </style>
 
     <title>MedicalRecord</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
-<body > 
+<body >
 
 <div class="titulo">
        <label texa>MedicalRecord</label></td>
@@ -70,7 +70,6 @@ body{
     </form>
   </div>
 </div>
-
 
 
 </body>
